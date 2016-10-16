@@ -60,7 +60,7 @@ window.spotifyModule = {
       },
 
       error: function() { 
-        console.log("An unkown error occured getting this info"); 
+        console.log("An unknown error occured getting this info"); 
       }
     });
   },
